@@ -47,7 +47,10 @@
 
 
 
+<p>
+		<%=request.getAttribute("message")%>
 
+	</p>
 
 
 
